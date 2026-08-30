@@ -117,10 +117,9 @@ GitHub: https://github.com/Warbhe
 
 LeetCode: https://leetcode.com/u/Rashmiwarbhe25/
 
-
-https://github.com/user-attachments/assets/e274a271-8c73-4a2f-b696-3d799a5ddee9
-
-
-
-
 Email: rashmiwarbhe@gmail.com
+
+
+https://github.com/user-attachments/assets/062848f6-3cb1-436c-947e-d8a08471469e
+
+
